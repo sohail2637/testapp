@@ -1,4 +1,8 @@
 this is my first file
+<<<<<<< HEAD
 
 
 change my file 
+=======
+second line update
+>>>>>>> 82d976f1d4b69fed176dad8069654b16355a602a
